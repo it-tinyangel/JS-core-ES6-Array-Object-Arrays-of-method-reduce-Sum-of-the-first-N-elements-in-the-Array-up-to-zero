@@ -7,9 +7,9 @@
 
 **Task description:**
 
-- The given array arr with numbers arr.
+- The given arr array of numbers.
 
-- Find the sum of the first N elements of an array up to the first zero using the reduction method.
+- Find the sum of the first N elements of an array up to the first zero using the reduce() Array's Method.
 
   > *Example: [1, 2, 3, 0, 4, 5, 6] — sum the first 3 elements, since the next element is number 0.*
 
