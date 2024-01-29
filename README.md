@@ -3,7 +3,7 @@
 ### ECMAScript 6 (ES6+). The JavaScript Array Object. The Arrays of methods. The reduce() Array's Method. Destructuring assignment
 ***
 
-### Finding the sum of the first N elements in the array up to the first zero
+### Finding the Sum of the first N of the Array elements up to the first zero
 
 **Task description:**
 
